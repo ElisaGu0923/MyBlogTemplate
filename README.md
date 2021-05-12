@@ -1,2 +1,2 @@
 # MyBlogTemplate
-Template for MyBlog
+A template for blog/article posting site
