@@ -1,0 +1,2 @@
+# MyBlogTemplate
+Template for MyBlog
